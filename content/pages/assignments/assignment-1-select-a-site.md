@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ' This section contains further information about the first project assignment.'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

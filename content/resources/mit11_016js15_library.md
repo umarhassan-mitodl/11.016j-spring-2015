@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-016j-the-once-and-future-city-spring-2015/f087199e4275da8c3319046c19d2ae62_MIT11_016JS15_Library.pdf
 file_size: 960063
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

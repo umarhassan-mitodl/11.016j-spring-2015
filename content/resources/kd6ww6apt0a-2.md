@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-016j-the-once-and-future-city-spring-2015/f9582231b76a53898ce2e22d13480daa_kd6ww6aPT0A.vtt
 file_size: 2952
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-016j-the-once-and-future-city-spring-2015/0297c4ac8c03bea2fd257ffb14f35af6_MIT11_016JS15_BackBayMap.pdf
 file_size: 4672486
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

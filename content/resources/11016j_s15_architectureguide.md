@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-016j-the-once-and-future-city-spring-2015/509a57c465d69761cf01f07c009eef4f_11016J_S15_ArchitectureGuide.pdf
 file_size: 2847670
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
