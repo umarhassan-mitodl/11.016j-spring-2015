@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '9254624'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -31,7 +29,7 @@ video_metadata:
 
 **Description:** In this video, Professor Anne Whiston Spirn looks at the passage of time and the affect of evolution and change on the cities of Boston and Cambridge. Music: Illuminations and Squinting at the Sun - Lee Rosevere License CC - BY - NC.
 
-[https://vimeo.com/85058981](https://vimeo.com/85058981)
+{{% resource_link "9a792174-6a8a-4146-885b-90cf5c64d618" "https://vimeo.com/85058981" %}}
 
 **Instructor:** Anne Whiston Spirn
 

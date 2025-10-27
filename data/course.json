@@ -41,8 +41,7 @@
     "website": "11-016j-the-once-and-future-city-spring-2015"
   },
   "course_title": "The Once and Future City",
-  "hide_download": true,
-  "course_description": "Class website: [The Once & Future City](http://web.mit.edu/thecity)\n\nWhat is a city? What shapes it? How does its history influence future development? How do physical form and institutions vary from city to city and how are these differences significant? How are cities changing and what is their future? This course will explore these and other questions, with emphasis upon twentieth-century American cities. A major focus will be on the physical form of cities\u2014from downtown and inner-city to suburb and edge city\u2014and the processes that shape them.\n\nThese questions and more are explored through lectures, readings, workshops, field trips, and analysis of particular places, with the city itself as a primary text. In light of the 2016 centennial of MIT's move from Boston to Cambridge, the 2015 iteration of the course focused on MIT's original campus in Boston's Back Bay, and the university's current neighborhood in Cambridge. Short field assignments, culminating in a final project, will provide students opportunities to use, develop, and refine new skills in \"reading\" the city.\n",
+  "course_description": "Class website: {{% resource_link \"3127e99c-4333-447a-84ca-4442b2a74c37\" \"The Once & Future City\" %}}\n\nWhat is a city? What shapes it? How does its history influence future development? How do physical form and institutions vary from city to city and how are these differences significant? How are cities changing and what is their future? This course will explore these and other questions, with emphasis upon twentieth-century American cities. A major focus will be on the physical form of cities\u2014from downtown and inner-city to suburb and edge city\u2014and the processes that shape them.\n\nThese questions and more are explored through lectures, readings, workshops, field trips, and analysis of particular places, with the city itself as a primary text. In light of the 2016 centennial of MIT's move from Boston to Cambridge, the 2015 iteration of the course focused on MIT's original campus in Boston's Back Bay, and the university's current neighborhood in Cambridge. Short field assignments, culminating in a final project, will provide students opportunities to use, develop, and refine new skills in \"reading\" the city.\n",
   "department_numbers": [
     "11",
     "4"
@@ -53,7 +52,6 @@
     "content": "96511fb5-16c1-3fe7-3b3c-f32a1fa07a4b",
     "website": "11-016j-the-once-and-future-city-spring-2015"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Other Video",
     "Projects with Examples",

@@ -63,7 +63,7 @@ Focus on the detailed fire-insurance maps (Hopkins from the 1870s, Bromleys, and
 
 Gather more fire-insurance maps than you might need (more than the required four plus the present) in order to get a comprehensive overview of how your site has changed over time, then focus on the ones that reveal the most about the character of changes on your site.
 
-Most maps have a legend. Find the legend in order to identify the significance of colors, symbols, or abbreviations. Consult the [Guide to Sanborn Abbreviations (PDF)](http://web.mit.edu/thecity/resources/abbreviations_for_sanborn_maps.pdf).
+Most maps have a legend. Find the legend in order to identify the significance of colors, symbols, or abbreviations. Consult the {{% resource_link "9f190270-0e29-445f-bf09-7d4b2b85862f" "Guide to Sanborn Abbreviations (PDF)" %}}.
 
 Start with the earliest detailed map that you can find (Hopkins or Bromley may be the earliest nineteenth-century maps). Identify patterns of streets, types of buildings and land uses, ownership, size of properties, and transportation.
 

@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '6992028'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -31,7 +29,7 @@ video_metadata:
 
 **Description:** In this video, Professor Anne Whiston Spirn looks at the evolution of the cities of Boston and Cambridge by observing the changes to maps made throughout the history of the area. Music: Squinting at the Sun - Lee Rosevere License CC - BY - NC.
 
-[https://vimeo.com/85058980](https://vimeo.com/85058980)
+{{% resource_link "f9240b3b-b631-4722-b245-e1f9df86ee93" "https://vimeo.com/85058980" %}}
 
 **Instructor:** Anne Whiston Spirn
 
