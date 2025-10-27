@@ -3,8 +3,6 @@ content_type: page
 description: This section provides insights and information about the course from
   the instructors.
 draft: false
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -36,7 +34,7 @@ None
 
 - CI-H ![](/images/educator/icon-question-cih.png)
 - HASS-H ![](/images/educator/icon-question-hass-h.png)
-- _11.016J_ can be applied towards a [Bachelor of Science in Planning](http://catalog.mit.edu/degree-charts/planning-course-11/), but is not required
+- _11.016J_ can be applied towards a {{% resource_link "5286aa46-8335-43e2-9a72-aa15fd03db6e" "Bachelor of Science in Planning" %}}, but is not required
 
 ### Offered
 
